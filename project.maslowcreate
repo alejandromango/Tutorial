@@ -231,11 +231,11 @@
                     "readmeText": "Molecules like this one let you layer your model to create more space. Real estate on the screen is intentionally limited to keep projects from becoming cluttered. There is no limit to how deep you can logically nest Atoms in Molecules"
                 },
                 {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 698,
-                    "y": 196,
-                    "uniqueID": 449683,
+                    "atomType": "Intersection",
+                    "name": "Intersection",
+                    "x": 690,
+                    "y": 184,
+                    "uniqueID": 119049,
                     "ioValues": []
                 },
                 {
@@ -272,7 +272,7 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "2D shape 555303",
+                            "name": "3D shape 829767",
                             "ioValue": 10
                         }
                     ],
@@ -329,28 +329,28 @@
                     "ap2Name": "geometry2",
                     "ap2Primary": false,
                     "ap1ID": 636389,
-                    "ap2ID": 449683
+                    "ap2ID": 119049
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap2Primary": false,
                     "ap1ID": 934230,
-                    "ap2ID": 449683
+                    "ap2ID": 119049
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 829767",
+                    "ap2Primary": false,
+                    "ap1ID": 119049,
+                    "ap2ID": 140877
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "Shape",
                     "ap2Primary": false,
-                    "ap1ID": 449683,
+                    "ap1ID": 119049,
                     "ap2ID": 742531
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 555303",
-                    "ap2Primary": false,
-                    "ap1ID": 449683,
-                    "ap2ID": 140877
                 },
                 {
                     "ap1Name": "Geometry",
